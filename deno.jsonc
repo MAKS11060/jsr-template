@@ -1,5 +1,5 @@
 {
-  "name": "@maks11060/template",
+  "name": "@maks11060/tmp",
   "version": "0.0.1",
   "lock": false,
   "exports": "./mod.ts",
