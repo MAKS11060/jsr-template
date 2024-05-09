@@ -1,5 +1,5 @@
 {
-  "name": "@",
+  "name": "@maks11060/template",
   "version": "0.0.1",
   "lock": false,
   "exports": "./mod.ts",
