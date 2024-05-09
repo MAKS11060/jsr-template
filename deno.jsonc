@@ -1,0 +1,12 @@
+{
+  "name": "@",
+  "version": "0.0.1",
+  "lock": false,
+  "exports": "./mod.ts",
+  "publish": {
+    "exclude": [
+      ".github",
+      "**/*.test.ts"
+    ]
+  }
+}
