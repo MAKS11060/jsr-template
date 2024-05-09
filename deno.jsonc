@@ -2,6 +2,8 @@
   "name": "@maks11060/tmp",
   "version": "0.0.1",
   "lock": false,
+  "tasks": {},
+  "imports": {},
   "exports": "./mod.ts",
   "publish": {
     "exclude": [
